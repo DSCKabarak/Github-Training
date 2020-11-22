@@ -2,7 +2,7 @@
 
 In this assignment, you will be asked to resolve a merge conflict. We want to create a `README.md` that says `"Hello World"`. 
 
-Copy and paste these commands on your command line and press `return`:
+Copy and paste these commands on your command line and press `return(MAC)/Enter(Windows)`:
 
 ```
 mkdir MergeConflict
