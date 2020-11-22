@@ -1,4 +1,4 @@
-## We hope that by one you know all there is  about git and github.
+## We hope that by now you know all there is  about git and github.
 
 If you need us to add more materials just raise an Issue and we will look into it.
 
