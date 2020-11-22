@@ -10,6 +10,7 @@ In each module, you will find video lessons marked with this icon :tv: and assig
 
 It is beneficial that you take advantage of the resources presented to you, but I would also recommend that if you find instances where things can be improved, then please create an issue [here](https://github.com/DSCKabarak/Github-Training/issues). If you are not familiar with issues in GitHub, no worries, you will learn about them soon.
 
+NB: All issues should be submitted to the stable barnch before they are merged into the main branch.
 ## To Get Started
 
 1. Register for an account on [github.com](https://github.com/).
@@ -49,5 +50,5 @@ You will notice at the top of the page there are directories for each learning m
 ## When you are finished
 All asignments will be submitted as issues which will then be reviewed by one of the Trainers.
 
-
+Please follow all the instructions so that the reviewers may have an easy time reviewing all the assignments.
 
