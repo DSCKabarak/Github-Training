@@ -8,7 +8,7 @@ you can actually copy it to your local machine using the command `git clone` fol
 Lets do this step by step:
 
 1. First you need to find the repository URL in the root of the repository. You should see a button that says `Clone or Download`:
-![](https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%202/assets/clone_one.png)
+![](https://github.com/DSCKabarak/Github-Training/blob/master/Module%202/assets/clone_one.png)
 Copy the URL and head over to the command line.
 
 2. On the command line you want to type `git clone <YOUR URL>` where you add the URL in the place of `<YOUR URL>`.
