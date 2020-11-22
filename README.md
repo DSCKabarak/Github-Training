@@ -1,6 +1,6 @@
-# Welcome to Campus Advisor Training
+# Welcome to the Github Training Repository
 
-Welcome to Campus Advisor training. You will be presented with video lessons and asked to complete assignments for each video lesson. All of the videos and assignments can be found in this repository. You are welcome to navigate around this repository, or you are welcome to just follow the links like the one at the bottom of this README to help you progress through the training.
+Welcome to the Github/Git Training Repository. You will be presented with video lessons and asked to complete assignments for each video lesson. All of the videos and assignments can be found in this repository. You are welcome to navigate around this repository, or you are welcome to just follow the links like the one at the bottom of this README to help you progress through the training.
 
 In each module, you will find video lessons marked with this icon :tv: and assignments will be marked with this icon :notebook:. You can find your first video below:
 
@@ -8,13 +8,13 @@ In each module, you will find video lessons marked with this icon :tv: and assig
 
 ## This is your training
 
-It is beneficial that you take advantage of the resources presented to you, but I would also recommend that if you find instances where things can be improved, then please create an issue in the original repository [here](https://github.com/github-campus-advisors/Campus-Advisor-Training/issues). If you are not familiar with issues in GitHub, no worries, you will learn about them soon.
+It is beneficial that you take advantage of the resources presented to you, but I would also recommend that if you find instances where things can be improved, then please create an issue in the original repository [here](https://github.com/DSCKabarak/Github-Training/issues). If you are not familiar with issues in GitHub, no worries, you will learn about them soon.
 
 ## To Get Started
 
 1. Register for an account on [github.com](https://github.com/).
 2. [Download, install and configure git](https://git-scm.com/). Windows users please install [Git for Windows](https://gitforwindows.org/).
-3. If you are new to Git, GitHub, and the command-line, I recommend [downloading ATOM](https://atom.io/), a text editor, which is available for Mac, Linux, and Windows. I will be using ATOM in all of the modules.
+3. If you are new to Git, GitHub, and the command-line, I recommend [downloading ATOM](https://atom.io/), a text editor, which is available for Mac, Linux, and Windows. We will be using ATOM in all of the modules.
 
     #### Mac and Linux Setup
       If you are using a Mac or Linux machine, I would recommend following these instructions to setup the ATOM command-line:
@@ -37,11 +37,12 @@ $ git config --global user.email "email@example.com"
 This is important because Git will use this information when you work on a project.
 
 ## Questions
-If you have any questions regarding setup or on any of the learning modules, I would recommend visiting the [GitHub Education Community](https://education.github.community/c/teachers/advisors) for assistance.
+If you have any questions regarding setup or on any of the learning modules, I would recommend visiting our discord server [DSC KABARAK DISCORD SERVER](https://discord.gg/ZFhzBbcR46) for assistance.
 
 <hr>
 
 ## To begin
+Fork this repository into your personal Github Account. The fork button is at the Top Right of this Repository. (A fork is a copy of a repository. Forking allows you to freely experiment with the changes without affecting the original project. You can read more about forking here [Fork A repo](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo#:~:text=A%20fork%20is%20a%20copy,without%20affecting%20the%20original%20project.))
 
 You will notice at the top of the page there are directories for each learning module. To begin, please click on Module 1 to start.
 
@@ -53,6 +54,5 @@ Certified Campus Advisors join a community of educator leaders who champion indu
 
 Once you have completed the mandatory Modules 1-4, you can find a link to the Campus Advisor application in the [GitHub Teacher Toolbox](https://education.github.com/toolbox/offers). We will review your training materials and follow up with you to schedule an interview.
 
-![Campus Advisor offer in the Teacher Toolbox](https://user-images.githubusercontent.com/2359538/79942524-a7fca000-842c-11ea-8e30-5de3d8e42f6f.png)
 
 
