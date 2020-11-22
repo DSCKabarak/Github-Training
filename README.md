@@ -8,7 +8,7 @@ In each module, you will find video lessons marked with this icon :tv: and assig
 
 ## This is your training
 
-It is beneficial that you take advantage of the resources presented to you, but I would also recommend that if you find instances where things can be improved, then please create an issue in the original repository [here](https://github.com/DSCKabarak/Github-Training/issues). If you are not familiar with issues in GitHub, no worries, you will learn about them soon.
+It is beneficial that you take advantage of the resources presented to you, but I would also recommend that if you find instances where things can be improved, then please create an issue [here](https://github.com/DSCKabarak/Github-Training/issues). If you are not familiar with issues in GitHub, no worries, you will learn about them soon.
 
 ## To Get Started
 
@@ -42,17 +42,12 @@ If you have any questions regarding setup or on any of the learning modules, I w
 <hr>
 
 ## To begin
-Fork this repository into your personal Github Account. The fork button is at the Top Right of this Repository. (A fork is a copy of a repository. Forking allows you to freely experiment with the changes without affecting the original project. You can read more about forking here [Fork A repo](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo#:~:text=A%20fork%20is%20a%20copy,without%20affecting%20the%20original%20project.))
+Fork this repository into your personal Github Account. The fork button is at the Top Right of this Repository. (A fork is a copy of a repository. Forking allows you to freely experiment with the changes without affecting the original project. You can read more about forking here ([Fork A repo](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo#:~:text=A%20fork%20is%20a%20copy,without%20affecting%20the%20original%20project.))
 
 You will notice at the top of the page there are directories for each learning module. To begin, please click on Module 1 to start.
 
 ## When you are finished
-
-Educators who have been approved for GitHub Education benefits for faculty are welcome to take the next step of applying to become a Certified Campus Advisor. 
-
-Certified Campus Advisors join a community of educator leaders who champion industry tools in their classroom. Campus Advisors join a collaborative network that allows them to learn from their peers, but also share what they are doing in their classrooms. Campus Advisors also receive professional development support from GitHub.
-
-Once you have completed the mandatory Modules 1-4, you can find a link to the Campus Advisor application in the [GitHub Teacher Toolbox](https://education.github.com/toolbox/offers). We will review your training materials and follow up with you to schedule an interview.
+All asignments will be submitted as issues which will then be reviewed by one of the Trainers.
 
 
 
