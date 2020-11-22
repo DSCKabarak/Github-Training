@@ -4,7 +4,7 @@ For a majority of your assignments you will create issues on GitHub.
 
 In order to create an issue you will travel to the tab marked as `Issues`:
 
-![](https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/assets/issue_one.png)
+![](https://github.com/DSCKabarak/Github-Training/blob/master/Module%201/assets/issue_one.png)
 
 Once you click on that tab you will see all the current issues in this repository. At this point, no issues have been created. Let's create a new issue by clicking `New issue`
 
