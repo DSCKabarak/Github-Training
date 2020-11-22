@@ -19,4 +19,4 @@ Once you have created a new issue, you will be greeted by the screen below. Here
 
 For the Module 1.1 Assignment, copy the question below and paste it into the body of the issue, then answer it:
 
-`Given what you have learned about Git, why would you want to use Git in your classroom?`
+`Given what you have learned about Git, why would you want to use it?`
