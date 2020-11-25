@@ -1,4 +1,4 @@
-# Module 2.3 Assignment
+# Module 2.4 Assignment
 
 In this assignment, you will be asked to resolve a merge conflict. We want to create a `README.md` that says `"Hello World"`. 
 
