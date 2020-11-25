@@ -1,14 +1,29 @@
 # Module 2.3 Assignment
 
-Similar to the last exercise, you are going to make a change to this document, but you will make the change on the command line
-using your local repository. (Review Module 2.3 video for guidance)
+In this assignment, you will be asked to resolve a merge conflict. We want to create a `README.md` that says `"Hello World"`. 
 
-You will do the following:
-1. Create a new branch called `assignment-edit-<<Your Name>>` on the command line of your local repository on your computer.
-2. Edit this document, `Module 2.3 Assignment.md` by adding your name to the document. 
-3. Once you have edited `Module 2.3 Assignment.md`, push those changes to GitHub.
-4. On GitHub create a Pull Request to merge these changes into the Master branch. 
-5. Delete the `assignment-edit-<<Your Name>>` branch after the merge.
+Copy and paste these commands on your command line and press `return(MAC)/Enter(Windows)`:
 
-Take a screenshot of your command line showing that you have committed and pushed your change
-and upload your screenshot to a new Issue titled `Module 2.3 Assignment`. 
+```
+mkdir MergeConflict
+cd MergeConflict/
+git init
+touch README.md
+echo "echo Hello" > README.md
+git add .
+git commit -m"first commit on master"
+git checkout -b new-branch
+echo "Hello World" > README.md
+git add .
+git commit -m"first commit on new-branch"
+git checkout master
+echo "Hola" > README.md
+git add .
+git commit -m"second commit on master"
+git merge new-branch
+```
+
+This "script" will create a merge conflict. Resolve the merge conflict so the text in `README.md` is `"Hello World"`.
+
+Take a screenshot of your command line showing that you have resolved the merge conflict
+and upload your screenshot to a new Issue titled `Module 2.4 Assignment`. 
