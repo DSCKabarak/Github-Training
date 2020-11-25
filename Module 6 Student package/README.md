@@ -38,3 +38,9 @@ Students have used the pack to build amazing projects. Check out the projects [H
  * My application wasn’t accepted. What should I do?
 
  You may need to provide additional documentation before they can approve your application. A common problem is that the uploaded proof was undated, or the photo was too blurry. Regardless of the reason, they will try to provide context so that your next application has a greater chance of success.
+
+ ### Expiration and renewals
+
+ Once your GitHub Student Developer Pack access expires, you may reapply if you’re still eligible, although some of the tools are not renewable as some GitHub partner offers cannot be renewed
+
+ For more information, see the [GITHUB STUDENT DEVELOPER PACK](https://education.github.com/pack) Page.
