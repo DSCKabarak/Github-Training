@@ -11,6 +11,7 @@ Please follow the steps below:
 4. Scroll down and commit these changes.
 5. On your local repository (on your computer) of the `Github-Training` repository, which we cloned in the last assignment,
 fetch and merge this change into your master branch on the command line.
+Maishmike3
 
 Take a screenshot of your command line showing that you have fetched and merged these changes
 and upload your screenshot to a new Issue titled `Module 2.2 Assignment`.
