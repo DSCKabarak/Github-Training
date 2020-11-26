@@ -1,7 +1,7 @@
 # Module 2.2 Assignment
 
 In this exercise you are going to make a change to this document on GitHub. As mentioned in the video, you can edit documents
-on GitHub by clicking the edit button and committing those changes. 
+on GitHub by clicking the edit button and committing those changes.
 
 Please follow the steps below:
 
@@ -15,4 +15,7 @@ fetch and merge this change into your master branch on the command line.
 Take a screenshot of your command line showing that you have fetched and merged these changes
 and upload your screenshot to a new Issue titled `Module 2.2 Assignment`.
 
-1. lazarus mugo
+
+
+# Bryan Theuri
+2. lazarus mugo
