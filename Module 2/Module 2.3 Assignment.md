@@ -12,3 +12,5 @@ You will do the following:
 
 Take a screenshot of your command line showing that you have committed and pushed your change
 and upload your screenshot to a new Issue titled `Module 2.3 Assignment`. 
+
+# Bryan Theuri
