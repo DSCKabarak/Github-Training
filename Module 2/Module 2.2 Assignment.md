@@ -18,4 +18,6 @@ edit-module-assignment-bill-konchellah
 Bill Konchellah
 
 # Douglas254
+# Bryan Theuri
+# lazarus mugo
 
