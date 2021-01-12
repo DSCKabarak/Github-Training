@@ -10,11 +10,11 @@ You will do the following:
 4. On GitHub create a Pull Request to merge these changes into the Master branch.
 5. Delete the `assignment-edit-<<Your Name>>` branch after the merge.
 
-Take a screenshot of your command line showing that you have committed and pushed your change 
-and upload your screenshot to a new Issue titled `Module 2.3 Assignment`. 
+Take a screenshot of your command line showing that you have committed and pushed your change
+and upload your screenshot to a new Issue titled `Module 2.3 Assignment`.
 
 
 # douglas254
 # Bryan Theuri
 # lazarus mugo
-
+# Purity Chepkemoi.
